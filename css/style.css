@@ -1998,15 +1998,6 @@ ol {
 	z-index: 1;
 }
 
-.product-pic-zoom img {
-	min-width: 100%;
-}
-
-.product-pic-zoom .zoom-icon {
-	position: absolute;
-	right: 20px;
-	top: 20px;
-}
 
 .product-pic-zoom .zoom-icon i {
 	color: #4c4c4c;
