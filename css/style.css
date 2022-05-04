@@ -989,15 +989,7 @@ ol {
 	position: relative;
 }
 
-.product-large a:before {
-	position: absolute;
-	left: 0;
-	bottom: -4px;
-	width: 100%;
-	height: 2px;
-	background: #ffffff;
-	content: "";
-}
+
 
 .filter-control {
 	text-align: center;
